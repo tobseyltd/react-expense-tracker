@@ -1,6 +1,6 @@
 # Expense Tracker
 
-> LIVE VERSION: https://mellow-lokum-1a99fd.netlify.app/
+> LIVE VERSION: https://sprightly-chaja-fef021.netlify.app/
 
 ## Table of contents
 
